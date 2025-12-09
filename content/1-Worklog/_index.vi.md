@@ -5,9 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
 
 Trang này ghi lại toàn bộ **Nhật ký công việc (Worklog)** được thực hiện trong suốt chương trình thực tập **First Cloud Journey (FCJ)**. Đây là tài liệu chi tiết hóa quá trình học tập, triển khai dự án **Travel-Guided**, khắc phục lỗi hệ thống và tham gia các sự kiện chuyên môn trong vòng **12 tuần** (khoảng 3 tháng).
 
@@ -24,8 +21,8 @@ Trong 12 tuần này, tôi đã chuyển đổi từ việc làm quen với các
 | **Tuần 5** | [Phân tích chi phí AWS, **thiết kế kiến trúc hạ tầng Serverless** cho dự án, và bắt đầu xây dựng sườn code.](1.5-week5/) |
 | **Tuần 6** | [Tìm hiểu các dịch vụ **Storage (S3, Glacier)**, hoàn thiện kiến trúc, và tham gia webinar về **DevSecOps** và **Amazon Q Developer**.](1.6-week6/) |
 | **Tuần 7** | [**Tập trung ôn tập** và củng cố kiến thức các dịch vụ AWS cơ bản để chuẩn bị cho kỳ thi giữa kỳ.](1.7-week7/) |
-| **Tuần 8** | [Hoàn thành thi giữa kỳ, chuyển đổi dự án sang mô hình **AWS SAM**, và bắt đầu triển khai các chức năng **CRUD** đầu tiên.](1.8-week8/) |
-| **Tuần 9** | [Tái cấu trúc và **Deploy thành công** dự án lên AWS bằng **AWS SAM** và **Docker**, vượt qua các lỗi gỡ lỗi Local.](1.9-week9/) |
-| **Tuần 10** | [Gỡ lỗi **CORS**, tích hợp Frontend, hoàn thành chức năng **Read/Delete**, và tham gia **AWS Cloud Mastery Series #1**.](1.10-week10/) |
-| **Tuần 11** | [Triển khai kiến trúc **Multi-Stack** để tối ưu hóa, **khắc phục triệt để lỗi CORS**, và bắt đầu tích hợp **AI Image Processing** (Rekognition).](1.11-week11/) |
-| **Tuần 12** | [Hoàn thiện **CRUD & AI**, nâng cấp luồng xử lý ảnh với **SQS**, hoàn tất các tính năng cuối (Bảo mật, SNS, Ghim Map), và tham gia **AWS Cloud Mastery Series cuối cùng**.](1.12-week12/) |
+| **Tuần 8** | [Hoàn thành thi giữa kỳ, chuyển đổi dự án sang mô hình **AWS SAM**, Serverless & AI Init.](1.8-week8/) |
+| **Tuần 9** | [Tái cấu trúc và **Deploy thành công** dự án lên AWS bằng **AWS SAM** và **Docker**, IaC & Deployment](1.9-week9/) |
+| **Tuần 10** | [Integration & Security, và tham gia **AWS Cloud Mastery Series #1**.](1.10-week10/) |
+| **Tuần 11** | [Triển khai kiến trúc **Multi-Stack** để tối ưu hóa, Refactoring & Multi-stack (Rekognition).](1.11-week11/) |
+| **Tuần 12** | [Advanced Features & Demo, hoàn tất các tính năng cuối (Bảo mật, SNS, Ghim Map), và tham gia **AWS Cloud Mastery Series cuối cùng**.](1.12-week12/) |
